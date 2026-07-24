@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0342-power-of-four) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0169-majority-element) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0242-valid-anagram) |
