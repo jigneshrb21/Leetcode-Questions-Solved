@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
