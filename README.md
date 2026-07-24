@@ -23,4 +23,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0148-sort-list) |
+## Math
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
