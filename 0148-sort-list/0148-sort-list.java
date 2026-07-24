@@ -13,18 +13,45 @@ class Solution {
         if(head == null || head.next == null){
             return head;
         }
-        ListNode temp = head;
-        List<Integer> list = new ArrayList<>();
-        while(temp != null){
-            list.add(temp.val);
+        ListNode middle = findmiddle(head);
+        ListNode lefthead = head;
+        ListNode righthead = middle.next;
+        middle.next = null;
+        lefthead = sortList(lefthead);
+        righthead = sortList(righthead);
+        return merge(lefthead, righthead);
+    }
+    public ListNode merge(ListNode left, ListNode right){
+        ListNode dummy = new ListNode(-1,null);
+        ListNode temp = dummy;
+        while(left != null && right != null){
+            if(left.val <= right.val){
+                temp.next = left;
+                left = left.next;
+            }
+            else{
+                temp.next = right;
+                right = right.next;
+            }
             temp = temp.next;
         }
-        Collections.sort(list);
-        temp = head;
-        for(int i = 0; i < list.size(); i++){
-            temp.val = list.get(i);
-            temp = temp.next;
+        if(left != null){
+            temp.next = left;
+        
         }
-        return head;
+        if(right != null){
+            temp.next = right;
+            
+        }
+        return dummy.next;
+    }
+    public ListNode findmiddle(ListNode head){
+        ListNode slow = head;
+        ListNode fast = head.next;
+        while(fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        return slow;
     }
 }
