@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0560-subarray-sum-equals-k) |
 ## Counting
 |  |
 | ------- |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
