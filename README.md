@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0141-linked-list-cycle) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0054-spiral-matrix) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
@@ -220,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0451-sort-characters-by-frequency) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
