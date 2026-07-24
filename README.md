@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0342-power-of-four) |
 ## Database
 |  |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
