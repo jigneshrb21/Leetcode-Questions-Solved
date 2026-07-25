@@ -13,41 +13,29 @@ class Solution {
         if (head == null || k == 1) {
             return head;
         }
-
         ListNode temp = head;
         ListNode front = null;
         ListNode back = null;
-        ListNode newHead = head;
-        ListNode prev = null;
-        int n = 0;
-
-        while (temp != null) {
-            n++;
-
-            if (n == k) {
-                front = temp.next;
-                temp.next = null;
-
-                ListNode rev = reverse(head);
-
-                if (prev == null) {
-                    newHead = rev;
-                } else {
-                    prev.next = rev;
-                }
-
-                head.next = front;
-                prev = head;
-
-                head = front;
-                temp = front;
-                n = 0;
-            } else {
-                temp = temp.next;
+        ListNode kth = null;
+        while(true){
+            kth = getkth(temp, k - 1);   
+            if(kth == null){
+               if(back != null) back.next = temp;
+                break;
+            }  
+            front = kth.next;
+            kth.next = null;
+            kth = reverse(temp);
+            if(temp == head){
+                head = kth;
             }
+            else{
+                back.next = kth;
+            }
+            back = temp;
+            temp = front;   
         }
-
-        return newHead;
+        return head;
     }
 
     public ListNode reverse(ListNode head) {
@@ -59,5 +47,13 @@ class Solution {
         head.next.next = head;
         head.next = null;
         return newHead;
+    }
+    private ListNode getkth(ListNode curr, int k) {
+        while (curr != null && k > 0) {
+            curr = curr.next;
+            k--;
+            
+        }
+        return curr;
     }
 }
