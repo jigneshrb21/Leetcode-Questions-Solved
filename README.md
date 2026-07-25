@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0451-sort-characters-by-frequency) |
+| [3536-maximum-product-of-two-digits](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/3536-maximum-product-of-two-digits) |
 ## Merge Sort
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0342-power-of-four) |
 | [1903-largest-odd-number-in-string](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1903-largest-odd-number-in-string) |
+| [3536-maximum-product-of-two-digits](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
