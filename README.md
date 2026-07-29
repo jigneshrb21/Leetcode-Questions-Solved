@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0283-move-zeroes) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0229-majority-element-ii) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0493-reverse-pairs](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
