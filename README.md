@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0053-maximum-subarray) |
@@ -259,4 +260,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
