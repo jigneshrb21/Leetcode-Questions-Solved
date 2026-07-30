@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0493-reverse-pairs) |
@@ -267,4 +268,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
