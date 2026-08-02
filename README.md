@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0877-stone-game](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0877-stone-game) |
+| [1004-max-consecutive-ones-iii](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -216,12 +217,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0493-reverse-pairs](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0493-reverse-pairs) |
+| [1004-max-consecutive-ones-iii](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -305,5 +308,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
