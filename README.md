@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0342-power-of-four) |
+| [0877-stone-game](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1922-count-good-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/3536-maximum-product-of-two-digits) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0560-subarray-sum-equals-k) |
+| [0877-stone-game](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0877-stone-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0152-maximum-product-subarray) |
+| [0877-stone-game](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0877-stone-game) |
 ## Simulation
 |  |
 | ------- |
@@ -290,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0079-word-search) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
