@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0877-stone-game](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Counting
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
