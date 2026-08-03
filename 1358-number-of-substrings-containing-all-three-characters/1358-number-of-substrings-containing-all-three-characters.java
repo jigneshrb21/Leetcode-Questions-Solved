@@ -8,7 +8,7 @@ class Solution {
             hash[s.charAt(i) - 'a'] = i;
 
             if (hash[0] != -1 && hash[1] != -1 && hash[2] != -1) {
-                int minw = Math.min(hash[0], Math.min(hash[1], hash[2]));
+                int minw = Math.min(hash[2], Math.min(hash[0], hash[1]));
                 cnt += minw + 1;
             }
         }
