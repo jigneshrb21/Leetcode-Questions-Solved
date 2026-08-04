@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0930-binary-subarrays-with-sum) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0493-reverse-pairs](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Indexed Tree
 |  |
