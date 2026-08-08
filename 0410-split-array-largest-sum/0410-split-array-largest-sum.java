@@ -8,19 +8,18 @@ class Solution {
 
             high += i;
         }
-        int ans = -1;
+        
         while(low <= high){
             int mid = (low + high) / 2;
             int cntk = countk(nums,k,mid);
             if(cntk <= k){
-                ans = mid;
                 high = mid - 1;
             }
             else{
                 low = mid + 1;
             }
         }
-        return ans;
+        return low;
     }
     private int countk(int[] nums, int k ,int largsum){
         int n = nums.length;
