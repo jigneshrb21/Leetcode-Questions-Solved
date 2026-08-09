@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0342-power-of-four) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0136-single-number) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0151-reverse-words-in-a-string) |
