@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0053-maximum-subarray) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0410-split-array-largest-sum) |
 | [0860-lemonade-change](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0860-lemonade-change) |
