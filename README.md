@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0877-stone-game) |
 ## Simulation
 |  |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
@@ -403,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
