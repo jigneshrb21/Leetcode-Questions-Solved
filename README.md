@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1922-count-good-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/3536-maximum-product-of-two-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/jigneshrb21/Leetcode-Questions-Solved/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
